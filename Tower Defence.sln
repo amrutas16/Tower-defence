@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defence", "Tower Defence\Tower Defence\Tower Defence.csproj", "{1C41865A-3C6B-4E03-BB52-F1C741C6D81E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Tower DefenceContent", "Tower Defence\Tower DefenceContent\Tower DefenceContent.contentproj", "{3FFBC6E6-3DFD-4715-8478-3830ED5558F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C41865A-3C6B-4E03-BB52-F1C741C6D81E}.Debug|x86.ActiveCfg = Debug|x86
+		{1C41865A-3C6B-4E03-BB52-F1C741C6D81E}.Debug|x86.Build.0 = Debug|x86
+		{1C41865A-3C6B-4E03-BB52-F1C741C6D81E}.Release|x86.ActiveCfg = Release|x86
+		{1C41865A-3C6B-4E03-BB52-F1C741C6D81E}.Release|x86.Build.0 = Release|x86
+		{3FFBC6E6-3DFD-4715-8478-3830ED5558F0}.Debug|x86.ActiveCfg = Debug|x86
+		{3FFBC6E6-3DFD-4715-8478-3830ED5558F0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
